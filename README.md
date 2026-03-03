@@ -12,7 +12,10 @@ A multi-utility AI chatbot built with:
 - DuckDuckGo Search Tool
 
 ---
-
+# 🚀 AI Chatbot (FastAPI + Streamlit) UI
+<p align="center">
+  <img src="chatbot.PNG" width="800">
+</p>
 ## 📦 Features
 
 - Chat with memory (thread-based)
