@@ -1,0 +1,6 @@
+__pycache__/
+.env
+chatbot_db
+*.db
+*.sqlite
+*.pyc
